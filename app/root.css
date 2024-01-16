@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: rgb(204,204,204);
+    width: 21cm;
+    height: 29.7cm;
+    margin: 0 auto;
+}
+
+.page {
+    background: white;
+    margin-bottom: 0.5cm;
+    position: relative;
+    size: 21cm 29.7cm;
+    width: 21cm;
+    height: 29.7cm;
+}
+
+.profilePicture {
+    object-position: 50% 10%;
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 90%);
+}

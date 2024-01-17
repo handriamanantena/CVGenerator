@@ -1,5 +1,7 @@
 # CV Generator (Remix)
 
+[Preview](https://handriamanantena.github.io)
+
 ## Configure
 To customize the text, you will need to add a .env file. Check out .env.templates as an example. (rename .env.templates to .env)
 
